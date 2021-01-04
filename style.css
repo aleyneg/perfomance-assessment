@@ -1,0 +1,210 @@
+/* defaults */
+body{
+  background: #dfe4ea;
+  margin: 30px;
+  font-size: 100%;
+}
+/*header - Page header */
+header{
+  padding-top: 5px;
+  padding-bottom: 0px;
+  font-size: 20px;
+  font-family: 'Catamaran', sans-serif;
+}
+/* navigation */
+nav {
+  background-color: #ffd32a;
+  border: 20px;
+  text-align: center;
+}
+nav ul{
+  list-style: none;
+  padding: 0;
+}
+nav ul li{
+padding: 20px;
+display: inline-block
+}
+nav a{
+  text-decoration: none;
+  color: #000000;
+}
+/* main */
+main{
+  font-size: 25px;
+}
+img{
+  width: 1289px;
+  height: 550px;
+}
+.content{
+  margin: 0px;
+  padding: 20px;
+  background: #000000;
+  color: #ffffff;
+  font-size: 18px;
+}
+.content p{
+  line-height: 1.5;
+}
+/* about page */
+.mission{
+  margin: 0px;
+  padding: 10px;
+  color: #000000;
+  background: #a5b1c2;
+}
+.mission h1{
+  font-family: 'Playfair Display', serif;
+  font-size: 36px;
+}
+.mission p{
+  line-height: 1.5;
+}
+.story{
+  margin: 0px;
+  padding: 20px;
+  color: #000000;
+  font-size: 18px;
+}
+.story h1{
+  font-family: 'Playfair Display', serif;
+}
+.story p{
+  line-height: 1.5;
+}
+.work{
+  margin: 0px;
+  padding: 10px;
+  color: #000000;
+  background: #a5b1c2;
+}
+.work h1{
+  font-family: 'Playfair Display', serif;
+  font-size: 36px;
+}
+.work h2{
+  font-size: 23px;
+}
+.work img{
+  width: 290px;
+  height: 190px;
+  float: right;
+}
+.btn{
+  padding: 8px 29px;
+  color: #000000;
+  background: #ffd32a;
+  font-size: 18px;
+  text-align: center;
+  font-style: normal;
+  border: 1px solid rgb(252, 199, 93);
+  border-width: 1px 1px 3px;
+  text-decoration: none;
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
+/* resources */
+.research h1{
+  font-family: 'Playfair Display', serif;
+  font-size: 39px;
+}
+.research p{
+  font-size: 20px;
+}
+.guide{
+  margin: 0px;
+  padding: 10px;
+  color: #000000;
+  background: #aaa69d;
+}
+.guide h1{
+  text-align: center;
+}
+.guide h2{
+  text-align: center;
+}
+.guide p{
+  text-align: center;
+}
+.guide a p{
+  text-align: center;
+}
+.guide img{
+  width: 300px;
+  height: 260px;
+  float: right;
+}
+.search{
+  margin: 0px;
+  text-align: left;
+  color: #000000;
+}
+.search h1{
+  text-align: center;
+}
+.search h2{
+  text-align: center;
+}
+.search p{
+  text-align: center;
+}
+.search img{
+  width: 350px;
+  height: 230px;
+  float: left;
+}
+.tax{
+  margin: 0px;
+  padding: 10px;
+  color: #000000;
+  background: #aaa69d;
+}
+.tax h1{
+  text-align: center;
+}
+.tax h2{
+  text-align: center;
+}
+.tax p{
+  text-align: center;
+}
+
+.tax img{
+  width: 350px;
+  height: 230px;
+  float: right;
+}
+.charity img{
+  width: 350px;
+  height: 230px;
+  float: left;
+}
+.charity h1{
+  text-align: center;
+}
+.charity h2{
+  text-align: center;
+}
+.charity p{
+  text-align: center;
+}
+.skills{
+  margin: 0px;
+  padding: 10px;
+  color: #000000;
+  background: #aaa69d;
+}
+.skills h1{
+  text-align: center;
+}
+
+
+
+/* footer */
+footer{
+  background-color: #1e272e;
+  color: #ffffff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
